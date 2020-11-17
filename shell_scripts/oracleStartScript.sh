@@ -14,7 +14,7 @@ export ORACLE_BASE=/u01/app/oracle
 export ORACLE_HOME=/u01/app/oracle/product/11.2.0/dbhome_1
 export ORACLE_OWNR=oracle
 export PATH=$PATH:$ORACLE_HOME/bin
-export ORACLE_UNQNAME=testoracle.ccom.nh
+export ORACLE_UNQNAME=
 
 echo "Oracle Script init.d"
 
